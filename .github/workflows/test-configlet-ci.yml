@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - test-configlet-ci
   pull_request:
 
 permissions:
